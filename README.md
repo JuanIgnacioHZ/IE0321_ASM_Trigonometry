@@ -8,7 +8,7 @@ The objective was to implement it in MIPS assembly and it was achieved, as a sid
 
 Description of all the files:
 
-    - B93826\_tarea4\_grupo2.s: Homework coded in MIPS assembly.
+    - B93826_tarea4_grupo2.s: Homework coded in MIPS assembly.
     - Tarea4.c: Homework coded in C.
     - Tarea4.h: Headers for Tarea4.c.
 
